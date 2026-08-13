@@ -1,0 +1,16 @@
+/* Media queries — tablet (<=1024px) y movil (<=768px) */
+
+/* Movil */
+@media (max-width: 768px) {
+  .cuadricula {
+    grid-template-columns: 1fr;
+  }
+
+  .cuadricula-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .cuadricula-3 {
+    grid-template-columns: 1fr;
+  }
+}
